@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Test Content Provider</string>
+    <string name="on_delete_alert_dialog">Are you sure you want to delete this course?</string>
+    <string name="on_delete_all_alert_dialog">Are you sure you want to delete all courses?</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+
+    <!-- Start Course Add Fragment -->
+    <string name="titleEditText">Title</string>
+    <string name="saveButtonAdd">Add</string>
+    <string name="saveButtonSave">Save</string>
+
+    <string name="add_course">Add Course</string>
+    <string name="add_course_error">Add Course Error</string>
+    <string name="list_course">Test Course list</string>
+    <string name="delete">Delete</string>
+    <string name="delete_error">Delete Error</string>
+    <string name="delete_success">All entries removed</string>
+    <string name="addTitleError">Enter course name</string>
+    <string name="course_detail">Course Detail</string>
+    <string name="edit_course">Edit Course</string>
+    <!-- End Course Add Fragment -->
+</resources>
